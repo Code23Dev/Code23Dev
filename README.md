@@ -1,7 +1,7 @@
 ### <h1> Hi there, I'm Leman Ibrahimli👋</h1>
 
 
-Here are some ideas to get you started:
+
 
 <!---- 🔭 I’m currently working on ...j
 - 🌱 I’m currently learning ...g
